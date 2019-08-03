@@ -13,8 +13,8 @@ ONLINE TRAINING  </font>
     <input type="checkbox" name="skill" value="System Administraion">System Administraion
     <input type="checkbox" name="skill" value="Automation"  /t  >Automation 
     <marquee width=300 height=25 direction=right behavior=alternate scrollamount=5>
-<font color=blue face="Monotype Corsiva" size=5> Trainer is </font>
- <input type="submit" value= "Devops" </marquee>
+<font color=blue face="Monotype Corsiva" size=8> Trainer is </font>
+ <input type="submit" value= "Unilever IT Devops" </marquee>
   </form>
  
 </body>

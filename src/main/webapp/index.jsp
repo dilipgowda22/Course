@@ -14,7 +14,7 @@ ONLINE TRAINING  </font>
     <input type="checkbox" name="skill" value="Automation"  /t  >Automation 
     <marquee width=300 height=35 direction=right behavior=alternate scrollamount=5>
 <font color=blue face="Monotype Corsiva" size=5> Trainer is </font>
- <input type="submit" value= "Unilever IT Devops...!!!!" </marquee>
+ <input type="submit" value= "Unilever IT Devops..PWC" </marquee>
   </form>
  
 </body>
